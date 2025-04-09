@@ -1,5 +1,3 @@
----
-
 ```
 # 📓 FUFUNotes – Make Your Life Better
 
@@ -19,11 +17,6 @@ Perfect for beginners learning full-stack PHP development and database integrati
 - 🔍 Client-side search using DataTables  
 
 ---
-
-## 📷 Screenshot
-
-![FUFUNotes Screenshot](https://via.placeholder.com/800x400?text=FUFUNotes+App+Screenshot)
-
 ---
 
 ## 💻 Tech Stack
