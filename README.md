@@ -122,6 +122,6 @@ Let me know if you want:
 - Edit functionality added to CRUD
 - `.sql` export file (ready to import)
 - And if you're reading this, I assume you liked it! 😄  
-If you did, please consider giving this repo a ⭐ and feel free to **follow me** and **connect with me on [Instagram](https://www.instagram.com/pavan._016/)**!
+If you did, please consider giving this repo a ⭐ and feel free to **follow me** and **connect with me on Instagram
 
 I got you covered 😎
