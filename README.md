@@ -97,7 +97,7 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
+Free To Use Because it is open source 
 
 ---
 
@@ -121,5 +121,7 @@ Let me know if you want:
 - A modern toast-style alert instead of Bootstrap alerts
 - Edit functionality added to CRUD
 - `.sql` export file (ready to import)
+- And if you're reading this, I assume you liked it! 😄  
+If you did, please consider giving this repo a ⭐ and feel free to **follow me** and **connect with me on [Instagram](https://www.instagram.com/pavan._016/)**!
 
 I got you covered 😎
